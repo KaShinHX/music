@@ -1,17 +1,107 @@
-﻿[
-  {"name":"満ちてゆく","artist":"藤井风","url":"http://music.dia4.xin/music/藤井风 - 満ちてゆく.flac","cover":"https://api.i-meto.com/meting/api?server=tencent&type=pic&id=001Gk2m60Ao2lD&auth=ff56e8acf7adfbfdb78c61d815ab14294a510a24","lrc":"https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=0035rCJP1CcNfR&auth=51f56c5f9e2735aeee3e43a76c1c6e5f7d0e8274"},
-  {"name":"静降想","artist":"MyGO!!!!!","url":"http://music.dia4.xin/music/MyGO!!!!! - 静降想.flac","cover":"https://api.i-meto.com/meting/api?server=tencent&type=pic&id=002iCJ6h2uS9zE&auth=e6e1ee984db4c179bff66319254100e6859a0223","lrc":"https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=002W66BO0g9KW3&auth=b598f4c8760ee2706f3bc8127423cfb5f7ea165f"},
-  {"name":"ブラックアウト","artist":"東京事変","url":"http://music.dia4.xin/music/東京事変 - ブラックアウト.flac","cover":"https://api.i-meto.com/meting/api?server=tencent&type=pic&id=000Cb7xG3bulkS&auth=202a069a03161ce6a11574164a7fddb420da8165","lrc":"https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=002Gz8lD4ZpoiB&auth=ba1f6d125b4c6c6e21cd456cf0153dbd4b4d62b0"},
-  {"name":"依存症","artist":"椎名林檎","url":"http://music.dia4.xin/music/椎名林檎 - 依存症.flac","cover":"https://api.i-meto.com/meting/api?server=tencent&type=pic&id=004KevLP2xgVv8&auth=20e44fa9e13d41626677e23d3bc4117ea3112ca7","lrc":"https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=002v9JOC472CRS&auth=71586a9f602f41ead20b71caadbc9dc0f5a4d662"},
-  {"name":"The Place Where He Inserted the Blade","artist":"Black Country, New Road","url":"http://music.dia4.xin/music/Black Country, New Road - The Place Where He Inserted the Blade.flac","cover":"https://api.i-meto.com/meting/api?server=tencent&type=pic&id=001Wl8564Qcnv2&auth=010e9b0f5eec42f75da4a1d1956f41b1ff7c6fc3","lrc":"https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=002GMD4E0vJBSE&auth=dbe943db5cd1a1c13ba60bf60b54c3a79e57f223"},
-  {"name":"Komm, süsser Tod","artist":"Original Soundtrack","url":"http://music.dia4.xin/music/Original Soundtrack - Komm, süsser Tod (Director's Edit.Version).mp3","cover":"https://api.i-meto.com/meting/api?server=tencent&type=pic&id=0032IuKP3hjxpq&auth=673d94981624ceacba1ef3a60ba84b0cfbb0609c","lrc":"https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=002jqIJj14m4b0&auth=ff597e23cd011ba01d5d4b8ae28b2e97913ba113"},
-  {"name":"POWDER SNOW","artist":"平野绫 / 水树奈奈 (みずき なな)","url":"http://music.dia4.xin/music/平野绫 (ひらの あや), 水树奈奈 (みずき なな) - POWDER SNOW (Live Ver.).mp3","cover":"https://api.i-meto.com/meting/api?server=tencent&type=pic&id=0020V9Z01hzptq&auth=1e71eeb3957684d9bf2ff652af584e767b4ee7e1","lrc":"https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=003GfiT22GGjSl&auth=a14a11ada5a5400ee17824a3bd82b02f73f5776b"},
-  {"name":"After All〜綴る想い〜","artist":"上原玲奈","url":"http://music.dia4.xin/music/上原玲奈 (上原れな) - After All〜綴る想い〜 (After All ～编缀回忆～).flac","cover":"https://api.i-meto.com/meting/api?server=tencent&type=pic&id=000nb2Xy4UA70p&auth=e368b5ef8c29851cc46bb16dc683c92446f4651b","lrc":"https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=002EZeXS1gHC0l&auth=3649b206ba0b3825c8e3c3877d1445d866de0a48"},
-  {"name":"君がいて水になる","artist":"ずっと真夜中でいいのに。","url":"http://music.dia4.xin/music/ずっと真夜中でいいのに。 - 君がいて水になる (有你在即可化成水).flac","cover":"https://api.i-meto.com/meting/api?server=tencent&type=pic&id=000xaYVw3FgS9c&auth=67c460a7544f8a1d47e1096935a6154b5ff3234e","lrc":"https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=003SRRKm3VYvL7&auth=796ba35f67818ba227e52dbbf56724e84b6160ec"},
-  {"name":"靴の花火","artist":"ヨルシカ","url":"http://music.dia4.xin/music/ヨルシカ - 靴の花火.mp3","cover":"https://api.i-meto.com/meting/api?server=tencent&type=pic&id=003wNMso4LuKcU&auth=070bebbeaa9135e728a48d925ec8cd65d4b53c94","lrc":"https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=003uPr2p3IClnU&auth=7de4f611a73a4feb5687d10f065ad5f0d127609b"},
-  {"name":"Wo Ladki","artist":"Arijit Singh","url":"http://music.dia4.xin/music/Arijit Singh - Wo Ladki.mp3","cover":"https://api.i-meto.com/meting/api?server=tencent&type=pic&id=00381bEt1MDK7V&auth=a3dbe3bc5ff9c55b030f9a1af23cefed407101ba","lrc":"https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=000qIxXf2k5zyf&auth=e5ee8fa7b2559e28a884b3d0040e9851970ce3f1"},
-  {"name":"失楽園","artist":"Reol","url":"http://music.dia4.xin/music/Reol - 失楽園.flac","cover":"https://api.i-meto.com/meting/api?server=tencent&type=pic&id=004eJLOi1je7HU&auth=e34a33eaab9b5e83c4d01bd253761d8ce4be4f1f","lrc":"https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=002b8g102Q7vaO&auth=b9a635dc83549ca04415899ae50d5846537b9734"},
-  {"name":"カワキヲアメク","artist":"美波","url":"http://music.dia4.xin/music/美波 - カワキヲアメク (声嘶力竭).flac","cover":"https://api.i-meto.com/meting/api?server=tencent&type=pic&id=001X3mEo3nH1eN&auth=f09c7a2f73436d183619077b952252cfdbed0876","lrc":"https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=003LVSBV0cRZUR&auth=e04b84342f1cdd5a69c6adc6ad1654b75dcb466b"},
-  {"name":"カノン","artist":"DJ OKAWARI","url":"http://music.dia4.xin/music/DJ OKAWARI - カノン (卡农).mp3","cover":"https://api.i-meto.com/meting/api?server=tencent&type=pic&id=002Y1GwE0LRRZE&auth=e6702b50e03c3a3be4c27c9817f1483e0c8acc85","lrc":"https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=004IdWfi2S5BsI&auth=dc5514630ad77dc3ab545a8552426f2c3b285ef6"},
-  {"name":"妄想感傷代償連盟","artist":"DECO*27 / 初音未来 (初音ミク)","url":"http://music.dia4.xin/music/DECO 27, 初音未来 - 妄想感傷代償連盟.flac","cover":"https://api.i-meto.com/meting/api?server=tencent&type=pic&id=001bMMLS4d3Ful&auth=3357d1044c9003e50612e3b5d8932fa0a169b620","lrc":"https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=000qiToY03CMRk&auth=12edbc4055a507bc0e2f4ea5989db5316c4218bf"}
+[
+  {
+    "name": "満ちてゆく",
+    "artist": "藤井风",
+    "url": "https://raw.githubusercontent.com/KaShinHX/music/main/website%20music/%E8%97%A4%E4%BA%95%E9%A2%A8%20-%20%E6%BA%80%E3%81%A1%E3%81%A6%E3%82%86%E3%81%8F.flac",
+    "cover": "https://api.i-meto.com/meting/api?server=tencent&type=pic&id=001Gk2m60Ao2lD&auth=ff56e8acf7adfbfdb78c61d815ab14294a510a24",
+    "lrc": "https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=0035rCJP1CcNfR&auth=51f56c5f9e2735aeee3e43a76c1c6e5f7d0e8274"
+  },
+  {
+    "name": "静降想",
+    "artist": "MyGO!!!!!",
+    "url": "https://raw.githubusercontent.com/KaShinHX/music/main/website%20music/MyGO!!!!-%20-%20%E9%9D%99%E9%99%8D%E6%83%B3.flac",
+    "cover": "https://api.i-meto.com/meting/api?server=tencent&type=pic&id=002iCJ6h2uS9zE&auth=e6e1ee984db4c179bff66319254100e6859a0223",
+    "lrc": "https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=002W66BO0g9KW3&auth=b598f4c8760ee2706f3bc8127423cfb5f7ea165f"
+  },
+  {
+    "name": "ブラックアウト",
+    "artist": "東京事変",
+    "url": "https://raw.githubusercontent.com/KaShinHX/music/main/website%20music/%E6%9D%B1%E4%BA%AC%E4%BA%8B%E5%A4%89%20-%20%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88.flac",
+    "cover": "https://api.i-meto.com/meting/api?server=tencent&type=pic&id=000Cb7xG3bulkS&auth=202a069a03161ce6a11574164a7fddb420da8165",
+    "lrc": "https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=002Gz8lD4ZpoiB&auth=ba1f6d125b4c6c6e21cd456cf0153dbd4b4d62b0"
+  },
+  {
+    "name": "依存症",
+    "artist": "椎名林檎",
+    "url": "https://raw.githubusercontent.com/KaShinHX/music/main/website%20music/%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E%20-%20%E4%BE%9D%E5%AD%98%E7%97%87.flac",
+    "cover": "https://api.i-meto.com/meting/api?server=tencent&type=pic&id=004KevLP2xgVv8&auth=20e44fa9e13d41626677e23d3bc4117ea3112ca7",
+    "lrc": "https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=002v9JOC472CRS&auth=71586a9f602f41ead20b71caadbc9dc0f5a4d662"
+  },
+  {
+    "name": "The Place Where He Inserted the Blade",
+    "artist": "Black Country, New Road",
+    "url": "https://raw.githubusercontent.com/KaShinHX/music/main/website%20music/Black%20Country,%20New%20Road%20-%20The%20Place%20Where%20He%20Inserted%20the%20Blade.flac",
+    "cover": "https://api.i-meto.com/meting/api?server=tencent&type=pic&id=001Wl8564Qcnv2&auth=010e9b0f5eec42f75da4a1d1956f41b1ff7c6fc3",
+    "lrc": "https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=002GMD4E0vJBSE&auth=dbe943db5cd1a1c13ba60bf60b54c3a79e57f223"
+  },
+  {
+    "name": "Komm, süsser Tod",
+    "artist": "Original Soundtrack",
+    "url": "https://raw.githubusercontent.com/KaShinHX/music/main/website%20music/Original%20Soundtrack%20-%20Komm,%20s%C3%BCsser%20Tod%20(Director's%20Edit.Version).mp3",
+    "cover": "https://api.i-meto.com/meting/api?server=tencent&type=pic&id=0032IuKP3hjxpq&auth=673d94981624ceacba1ef3a60ba84b0cfbb0609c",
+    "lrc": "https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=002jqIJj14m4b0&auth=ff597e23cd011ba01d5d4b8ae28b2e97913ba113"
+  },
+  {
+    "name": "POWDER SNOW",
+    "artist": "平野绫 / 水树奈奈 (みずき なな)",
+    "url": "https://raw.githubusercontent.com/KaShinHX/music/main/website%20music/%E5%B9%B3%E9%87%8E%E7%BB%AB%20(%E3%81%B2%E3%82%89%E3%81%AE%20%E3%81%82%E3%82%84),%20%E6%B0%B4%E6%A0%91%E5%A5%88%E5%A5%88%20(%E3%81%BF%E3%81%9A%E3%81%8D%20%E3%81%AA%E3%81%AA)%20-%20POWDER%20SNOW%20(Live%20Ver.).mp3",
+    "cover": "https://api.i-meto.com/meting/api?server=tencent&type=pic&id=0020V9Z01hzptq&auth=1e71eeb3957684d9bf2ff652af584e767b4ee7e1",
+    "lrc": "https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=003GfiT22GGjSl&auth=a14a11ada5a5400ee17824a3bd82b02f73f5776b"
+  },
+  {
+    "name": "After All〜綴る想い〜",
+    "artist": "上原玲奈",
+    "url": "https://raw.githubusercontent.com/KaShinHX/music/main/website%20music/%E4%B8%8A%E5%8E%9F%E7%8E%B2%E5%A5%88%20(%E4%B8%8A%E5%8E%9F%E3%82%8C%E3%81%AA)%20-%20After%20All%E3%80%9C%E7%B6%B4%E3%82%8B%E6%83%B3%E3%81%84%E3%80%9C%20(After%20All%20%EF%BD%9E%E7%BC%96%E7%BC%84%E5%9B%9E%E5%BF%86%EF%BD%9E).flac",
+    "cover": "https://api.i-meto.com/meting/api?server=tencent&type=pic&id=000nb2Xy4UA70p&auth=e368b5ef8c29851cc46bb16dc683c92446f4651b",
+    "lrc": "https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=002EZeXS1gHC0l&auth=3649b206ba0b3825c8e3c3877d1445d866de0a48"
+  },
+  {
+    "name": "君がいて水になる",
+    "artist": "ずっと真夜中でいいのに。",
+    "url": "https://raw.githubusercontent.com/KaShinHX/music/main/website%20music/%E3%81%9A%E3%81%A3%E3%81%A8%E7%9C%9F%E5%A4%9C%E4%B8%AD%E3%81%A7%E3%81%84%E3%81%84%E3%81%AE%E3%81%AB%E3%80%82%20-%20%E5%90%9B%E3%81%8C%E3%81%84%E3%81%A6%E6%B0%B4%E3%81%AB%E3%81%AA%E3%82%8B%20(%E6%9C%89%E4%BD%A0%E5%9C%A8%E5%8F%AF%E5%8C%96%E6%88%90%E6%B0%B4).flac",
+    "cover": "https://api.i-meto.com/meting/api?server=tencent&type=pic&id=000xaYVw3FgS9c&auth=67c460a7544f8a1d47e1096935a6154b5ff3234e",
+    "lrc": "https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=003SRRKm3VYvL7&auth=796ba35f67818ba227e52dbbf56724e84b6160ec"
+  },
+  {
+    "name": "靴の花火",
+    "artist": "ヨルシカ",
+    "url": "https://raw.githubusercontent.com/KaShinHX/music/main/website%20music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%20-%20%E9%9D%B4%E3%81%AE%E8%8A%B1%E7%81%AB.mp3",
+    "cover": "https://api.i-meto.com/meting/api?server=tencent&type=pic&id=003wNMso4LuKcU&auth=070bebbeaa9135e728a48d925ec8cd65d4b53c94",
+    "lrc": "https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=003uPr2p3IClnU&auth=7de4f611a73a4feb5687d10f065ad5f0d127609b"
+  },
+  {
+    "name": "Wo Ladki",
+    "artist": "Arijit Singh",
+    "url": "https://raw.githubusercontent.com/KaShinHX/music/main/website%20music/Arijit%20Singh%20-%20Wo%20Ladki.mp3",
+    "cover": "https://api.i-meto.com/meting/api?server=tencent&type=pic&id=00381bEt1MDK7V&auth=a3dbe3bc5ff9c55b030f9a1af23cefed407101ba",
+    "lrc": "https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=000qIxXf2k5zyf&auth=e5ee8fa7b2559e28a884b3d0040e9851970ce3f1"
+  },
+  {
+    "name": "失楽園",
+    "artist": "Reol",
+    "url": "https://raw.githubusercontent.com/KaShinHX/music/main/website%20music/Reol%20-%20%E5%A4%B1%E6%A5%BD%E5%9C%92.flac",
+    "cover": "https://api.i-meto.com/meting/api?server=tencent&type=pic&id=004eJLOi1je7HU&auth=e34a33eaab9b5e83c4d01bd253761d8ce4be4f1f",
+    "lrc": "https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=002b8g102Q7vaO&auth=b9a635dc83549ca04415899ae50d5846537b9734"
+  },
+  {
+    "name": "カワキヲアメク",
+    "artist": "美波",
+    "url": "https://raw.githubusercontent.com/KaShinHX/music/main/website%20music/%E7%BE%8E%E6%B3%A2%20-%20%E3%82%AB%E3%83%AF%E3%82%AD%E3%83%B2%E3%82%A2%E3%83%A1%E3%82%AF%20(%E5%A3%B0%E5%98%B6%E5%8A%9B%E7%AB%AD).flac",
+    "cover": "https://api.i-meto.com/meting/api?server=tencent&type=pic&id=001X3mEo3nH1eN&auth=f09c7a2f73436d183619077b952252cfdbed0876",
+    "lrc": "https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=003LVSBV0cRZUR&auth=e04b84342f1cdd5a69c6adc6ad1654b75dcb466b"
+  },
+  {
+    "name": "カノン",
+    "artist": "DJ OKAWARI",
+    "url": "https://raw.githubusercontent.com/KaShinHX/music/main/website%20music/DJ%20OKAWARI%20-%20%E3%82%AB%E3%83%8E%E3%83%B3%20(%E5%8D%A1%E5%86%9C).mp3",
+    "cover": "https://api.i-meto.com/meting/api?server=tencent&type=pic&id=002Y1GwE0LRRZE&auth=e6702b50e03c3a3be4c27c9817f1483e0c8acc85",
+    "lrc": "https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=004IdWfi2S5BsI&auth=dc5514630ad77dc3ab545a8552426f2c3b285ef6"
+  },
+  {
+    "name": "妄想感傷代償連盟",
+    "artist": "DECO*27 / 初音未来 (初音ミク)",
+    "url": "https://raw.githubusercontent.com/KaShinHX/music/main/website%20music/DECO%2027,%20%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%20-%20%E5%A6%84%E6%83%B3%E6%84%9F%E5%82%B7%E4%BB%A3%E5%84%9F%E9%80%A3%E7%9B%9F.flac",
+    "cover": "https://api.i-meto.com/meting/api?server=tencent&type=pic&id=001bMMLS4d3Ful&auth=3357d1044c9003e50612e3b5d8932fa0a169b620",
+    "lrc": "https://api.i-meto.com/meting/api?server=tencent&type=lrc&id=000qiToY03CMRk&auth=12edbc4055a507bc0e2f4ea5989db5316c4218bf"
+  }
 ]
